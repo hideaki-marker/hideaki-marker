@@ -1,8 +1,5 @@
 ### Hi there 👋
 
 <!--
-![pinkumohikan's github stats](https://github-readme-stats.vercel.app/api?username=hideaki-marker&count_private=true&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hideaki-marker&theme=radical)
-
-These cards are powered by https://github.com/anuraghazra/github-readme-stats
+[![モーリー's GitHub stats](https://github-readme-stats.vercel.app/api?username=mo-ri-regen&theme=vue-dark&show_icons=true)](https://github.com/mo-ri-regen/github-readme-stats)
 -->
